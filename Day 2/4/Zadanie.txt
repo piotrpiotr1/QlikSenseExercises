@@ -1,0 +1,4 @@
+1. Stwórz nową aplikację.
+2. Dodaj asosjację.
+3. Wykonaj dowolną wizualizację.
+

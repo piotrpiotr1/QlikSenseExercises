@@ -1,0 +1,4 @@
+1. Stwórz nową aplikację.
+2. Przygotouj dane w excelu.
+3. Zbuduj dowolną wizualizację.
+

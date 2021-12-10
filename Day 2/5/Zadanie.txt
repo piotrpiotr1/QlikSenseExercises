@@ -1,0 +1,4 @@
+1. Połącz się z Baza Access
+2. Dokonaj asocjacji
+3. Przeanalizuj kod
+4. Dokonaj transforamcji kolumn

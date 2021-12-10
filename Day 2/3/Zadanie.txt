@@ -1,0 +1,3 @@
+1. Stwórz nową aplikację.
+2. Wczytaj dane
+3. Wykonaj dowolną wizualizację
